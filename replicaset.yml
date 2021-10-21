@@ -13,10 +13,12 @@ spec:
     metadata:
       labels:
         app: hello_world
-    containers:
+     spec:
+      containers:
       - name: k8s-demo
         image: arjunachari12/k8s-demo
         ports:
         - name: nodejs-port
           containerPort: 3000
+
   
