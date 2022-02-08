@@ -3,3 +3,6 @@
 	url = git@github.com:saikrishna-matta/react-complete-guide-code.git
 [submodule "DbConnector"]
 	branch = stable
+[submodule "docker-demo-with-simple-python-app"]
+	path = docker-demo-with-simple-python-app
+	url = git@github.com:saikrishna-matta/docker-demo-with-simple-python-app.git
